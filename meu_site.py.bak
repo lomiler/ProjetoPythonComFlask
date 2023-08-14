@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-# criar a 1º página do sit
+# criar a 1º página do site
 # route -> caminho da página
 # função -> o que você quer exibir naquela página
 # template
